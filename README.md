@@ -6,7 +6,7 @@
 1. a
 2. b
 我们可以讲所有的工程项目打包上传到[GITHUB](https://github.com "GitHub官网")
-我们可以讲所有的工程项目打包上传到[GITHUB] [1]
+我们可以讲所有的工程项目打包上传到[GITHUB][1]
 [1]:https://github.com "GitHub官网"
 
 
