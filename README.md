@@ -9,7 +9,9 @@
 
 
 
-我们可以讲所有的工程项目打包上传到[GITHUB][1]进行托管
-[1]:https://www.github.com "GitHub官网"
+我们可以讲所有的工程项目打包上传到[GITHUB][1]进行托管,开发者可以下载[Git][2]软件
 
+
+[1]:https://www.github.com "GitHub官网"
+[2]:https://git-scm.com/downloads "Git下载"
 
